@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5336E947-ADD9-4FF3-A913-924115D12E65}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates/Program.cs">
+    <Files>
+      <File FileName="Delegates/Program.cs" Line="11" Column="40" />
+      <File FileName="Delegates/PhotoProcessor.cs" Line="1" Column="1" />
+      <File FileName="Delegates/PhotoFilters.cs" Line="1" Column="1" />
+      <File FileName="Delegates/Photo.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegates" expanded="True">
+            <Node name="Delegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

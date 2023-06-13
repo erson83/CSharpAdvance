@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/bin/Debug/net7.0/6.Generics
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/bin/Debug/net7.0/6.Generics.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/bin/Debug/net7.0/6.Generics.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/bin/Debug/net7.0/6.Generics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/bin/Debug/net7.0/6.Generics.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/refint/6.Generics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/ref/6.Generics.dll

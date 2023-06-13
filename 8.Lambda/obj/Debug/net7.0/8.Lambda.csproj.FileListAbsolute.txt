@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/bin/Debug/net7.0/8.Lambda
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/bin/Debug/net7.0/8.Lambda.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/bin/Debug/net7.0/8.Lambda.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/bin/Debug/net7.0/8.Lambda.dll
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/bin/Debug/net7.0/8.Lambda.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.dll
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/refint/8.Lambda.dll
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/ref/8.Lambda.dll

@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/bin/Debug/net7.0/7.Delegates(before using)
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/bin/Debug/net7.0/7.Delegates(before using).deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/bin/Debug/net7.0/7.Delegates(before using).runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/bin/Debug/net7.0/7.Delegates(before using).dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/bin/Debug/net7.0/7.Delegates(before using).pdb
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/refint/7.Delegates(before using).dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).pdb
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/7.Delegates(before using).genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/obj/Debug/net7.0/ref/7.Delegates(before using).dll

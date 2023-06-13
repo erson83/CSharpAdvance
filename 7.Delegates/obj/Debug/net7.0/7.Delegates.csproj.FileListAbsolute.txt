@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/bin/Debug/net7.0/7.Delegates
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/bin/Debug/net7.0/7.Delegates.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/bin/Debug/net7.0/7.Delegates.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/bin/Debug/net7.0/7.Delegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/bin/Debug/net7.0/7.Delegates.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/refint/7.Delegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/ref/7.Delegates.dll

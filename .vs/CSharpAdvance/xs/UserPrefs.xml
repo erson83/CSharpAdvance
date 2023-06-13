@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{62AE038B-DC24-4A39-9BAC-DD93745E4CC4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.8.Lambda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Section1Numerics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.9.Events__WithEventArgs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.ExtensionMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7.Delegates_228before_220using_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/Program.cs" relfile="6.Generics/Program.cs" line="68" column="1" />
+      <Breakpoint file="/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/Program.cs" relfile="7.Delegates(before using)/Program.cs" line="68" column="1" />
+      <Breakpoint file="/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/Program.cs" relfile="7.Delegates/Program.cs" line="70" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.9.Events PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharpAdvance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpAdvance" expanded="True">
+            <Node name="10.ExtensionMethods" expanded="True" />
+            <Node name="7.Delegates(before using)" expanded="True" />
+            <Node name="8.Lambda" expanded="True" />
+            <Node name="9.Events" expanded="True" />
+            <Node name="9.Events_SimplerDelegates" expanded="True" />
+            <Node name="9.Events_WithEventArgs" expanded="True" />
+            <Node name="CSharpAdvance" expanded="True" />
+            <Node name="Section1Numerics" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.9.Events__SimplerDelegates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

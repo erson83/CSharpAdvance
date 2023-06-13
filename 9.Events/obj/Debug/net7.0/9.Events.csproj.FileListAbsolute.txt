@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/bin/Debug/net7.0/9.Events
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/bin/Debug/net7.0/9.Events.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/bin/Debug/net7.0/9.Events.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/bin/Debug/net7.0/9.Events.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/bin/Debug/net7.0/9.Events.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/refint/9.Events.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/ref/9.Events.dll

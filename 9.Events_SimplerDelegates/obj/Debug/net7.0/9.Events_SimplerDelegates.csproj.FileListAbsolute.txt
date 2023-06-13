@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/bin/Debug/net7.0/9.Events_SimplerDelegates
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/bin/Debug/net7.0/9.Events_SimplerDelegates.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/bin/Debug/net7.0/9.Events_SimplerDelegates.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/bin/Debug/net7.0/9.Events_SimplerDelegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/bin/Debug/net7.0/9.Events_SimplerDelegates.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/refint/9.Events_SimplerDelegates.dll
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/ref/9.Events_SimplerDelegates.dll
