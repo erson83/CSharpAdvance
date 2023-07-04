@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/bin/Debug/net7.0/CSharpAdvance
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/bin/Debug/net7.0/CSharpAdvance.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/bin/Debug/net7.0/CSharpAdvance.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/bin/Debug/net7.0/CSharpAdvance.dll
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/bin/Debug/net7.0/CSharpAdvance.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.dll
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/refint/CSharpAdvance.dll
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/ref/CSharpAdvance.dll

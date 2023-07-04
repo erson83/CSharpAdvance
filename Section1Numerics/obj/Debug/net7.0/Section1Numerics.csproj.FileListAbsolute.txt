@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/bin/Debug/net7.0/Section1Numerics
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/bin/Debug/net7.0/Section1Numerics.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/bin/Debug/net7.0/Section1Numerics.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/bin/Debug/net7.0/Section1Numerics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/bin/Debug/net7.0/Section1Numerics.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/refint/Section1Numerics.dll
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/ref/Section1Numerics.dll

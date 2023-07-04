@@ -1,6 +1,5 @@
-﻿<Properties StartupConfiguration="{62AE038B-DC24-4A39-9BAC-DD93745E4CC4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Section1Numerics FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CSharpAdvance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+﻿<Properties StartupConfiguration="{DCC28771-F490-4772-9E42-DF4753F55A43}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpAdvance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <Breakpoint file="/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/Program.cs" relfile="6.Generics/Program.cs" line="68" column="1" />
     <Breakpoint file="/Users/jeffersonong/Projects/CSharpAdvance/7.Delegates(before using)/Program.cs" relfile="7.Delegates(before using)/Program.cs" line="68" column="1" />
@@ -30,7 +29,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.11.Linq FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.11.Linq PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.9.Events__WithEventArgs PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.9.Events PreferredExecutionTarget="MonoDevelop.Default" />

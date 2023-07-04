@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/bin/Debug/net7.0/11.Linq
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/bin/Debug/net7.0/11.Linq.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/bin/Debug/net7.0/11.Linq.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/bin/Debug/net7.0/11.Linq.dll
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/bin/Debug/net7.0/11.Linq.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.dll
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/refint/11.Linq.dll
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/ref/11.Linq.dll
