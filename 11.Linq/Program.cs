@@ -68,9 +68,9 @@ namespace LinQ
             Console.WriteLine("bookSingle:"  + bookSingle.Title);
 
 
-            // singleorDefault method only returns one object
+            // singleorDefault method only returns true is match, false if no match
             var booksingleorDefault = books.SingleOrDefault(b => b.Title == "Title X");
-            Console.WriteLine("booksingleorDefault:" + booksingleorDefault.Title);
+            Console.WriteLine("booksingleorDefault:" + booksingleorDefault == null);
 
 
             // search for first match
