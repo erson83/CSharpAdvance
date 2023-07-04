@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/Section1Numerics.csproj": {}
+    "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj": {}
   },
   "projects": {
-    "/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/Section1Numerics.csproj": {
+    "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/Section1Numerics.csproj",
-        "projectName": "Section1Numerics",
-        "projectPath": "/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/Section1Numerics.csproj",
+        "projectUniqueName": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj",
+        "projectName": "11.Linq",
+        "projectPath": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj",
         "packagesPath": "/Users/jeffersonong/.nuget/packages/",
-        "outputPath": "/Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/",
+        "outputPath": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeffersonong/.nuget/NuGet/NuGet.Config"

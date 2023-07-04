@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/6.Generics.csproj",
-      "projectName": "6.Generics",
-      "projectPath": "/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/6.Generics.csproj",
+      "projectUniqueName": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj",
+      "projectName": "11.Linq",
+      "projectPath": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/11.Linq.csproj",
       "packagesPath": "/Users/jeffersonong/.nuget/packages/",
-      "outputPath": "/Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/",
+      "outputPath": "/Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeffersonong/.nuget/NuGet/NuGet.Config"
