@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/bin/Debug/net7.0/13.Dynamic
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/bin/Debug/net7.0/13.Dynamic.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/bin/Debug/net7.0/13.Dynamic.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/bin/Debug/net7.0/13.Dynamic.dll
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/bin/Debug/net7.0/13.Dynamic.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.dll
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/refint/13.Dynamic.dll
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/ref/13.Dynamic.dll
