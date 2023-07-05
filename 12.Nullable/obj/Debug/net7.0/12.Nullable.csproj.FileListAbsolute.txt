@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/bin/Debug/net7.0/12.Nullable
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/bin/Debug/net7.0/12.Nullable.deps.json
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/bin/Debug/net7.0/12.Nullable.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/bin/Debug/net7.0/12.Nullable.dll
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/bin/Debug/net7.0/12.Nullable.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.dll
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/refint/12.Nullable.dll
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.pdb
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/ref/12.Nullable.dll
