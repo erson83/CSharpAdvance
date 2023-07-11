@@ -9,6 +9,9 @@ namespace Nullable
     {
         static void Main(string[] args)
         {
+
+            // the question mark (?) is used to indicate that a variable of a
+            // value type can also have a null value. This feature is known as nullable value types.
             DateTime? date = null;
 
             Console.WriteLine(date.GetValueOrDefault());
