@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/9.Events_SimplerDelegates.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events_SimplerDelegates/obj/Debug/net7.0/ref/9.Events_SimplerDelegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\bin\Debug\net7.0\9.Events_SimplerDelegates.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\refint\9.Events_SimplerDelegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events_SimplerDelegates\obj\Debug\net7.0\9.Events_SimplerDelegates.pdb

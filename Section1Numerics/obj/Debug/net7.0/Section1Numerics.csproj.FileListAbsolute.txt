@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/Section1Numerics.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/Section1Numerics/obj/Debug/net7.0/ref/Section1Numerics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\bin\Debug\net7.0\Section1Numerics.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\refint\Section1Numerics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\Section1Numerics\obj\Debug\net7.0\Section1Numerics.pdb

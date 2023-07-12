@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/8.Lambda.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/8.Lambda/obj/Debug/net7.0/ref/8.Lambda.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\bin\Debug\net7.0\8.Lambda.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\refint\8.Lambda.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\8.Lambda\obj\Debug\net7.0\8.Lambda.pdb

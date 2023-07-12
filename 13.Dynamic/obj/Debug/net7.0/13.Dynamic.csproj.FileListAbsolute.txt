@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/13.Dynamic.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/13.Dynamic/obj/Debug/net7.0/ref/13.Dynamic.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\bin\Debug\net7.0\13.Dynamic.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\refint\13.Dynamic.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\13.Dynamic\obj\Debug\net7.0\13.Dynamic.pdb

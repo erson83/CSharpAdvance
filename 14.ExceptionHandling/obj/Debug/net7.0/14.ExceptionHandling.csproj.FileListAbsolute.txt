@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/14.ExceptionHandling/obj/Debug/net7.0/14.ExceptionHandling.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/14.ExceptionHandling/obj/Debug/net7.0/14.ExceptionHandling.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/14.ExceptionHandling/obj/Debug/net7.0/ref/14.ExceptionHandling.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\bin\Debug\net7.0\14.ExceptionHandling.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\refint\14.ExceptionHandling.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\14.ExceptionHandling\obj\Debug\net7.0\14.ExceptionHandling.pdb

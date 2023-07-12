@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/9.Events.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/9.Events/obj/Debug/net7.0/ref/9.Events.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\bin\Debug\net7.0\9.Events.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\refint\9.Events.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\9.Events\obj\Debug\net7.0\9.Events.pdb

@@ -1,0 +1,15 @@
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\bin\Debug\net8.0\10.ExtensionMethods.exe
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\bin\Debug\net8.0\10.ExtensionMethods.deps.json
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\bin\Debug\net8.0\10.ExtensionMethods.runtimeconfig.json
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\bin\Debug\net8.0\10.ExtensionMethods.dll
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\bin\Debug\net8.0\10.ExtensionMethods.pdb
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.AssemblyInfo.cs
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.sourcelink.json
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.dll
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\refint\10.ExtensionMethods.dll
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.pdb
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\10.ExtensionMethods.genruntimeconfig.cache
+C:\Users\jeong\source\repos\erson83\CSharpAdvance\10.ExtensionMethods\obj\Debug\net8.0\ref\10.ExtensionMethods.dll

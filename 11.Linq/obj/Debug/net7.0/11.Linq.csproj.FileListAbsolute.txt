@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/11.Linq.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/11.Linq/obj/Debug/net7.0/ref/11.Linq.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\bin\Debug\net7.0\11.Linq.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\refint\11.Linq.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\11.Linq\obj\Debug\net7.0\11.Linq.pdb

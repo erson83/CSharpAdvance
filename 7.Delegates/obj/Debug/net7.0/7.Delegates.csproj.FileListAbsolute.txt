@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/7.Delegates.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/7.Delegates/obj/Debug/net7.0/ref/7.Delegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\bin\Debug\net7.0\7.Delegates.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\refint\7.Delegates.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\7.Delegates\obj\Debug\net7.0\7.Delegates.pdb

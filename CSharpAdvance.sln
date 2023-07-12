@@ -1,35 +1,35 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAdvance", "CSharpAdvance\CSharpAdvance.csproj", "{CE1072FB-7F7B-4873-AE1E-24CF503D963F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1Numerics", "Section1Numerics\Section1Numerics.csproj", "{F11F33FF-CBCC-4FE2-8076-B5BF2A1F3B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Section1Numerics", "Section1Numerics\Section1Numerics.csproj", "{F11F33FF-CBCC-4FE2-8076-B5BF2A1F3B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Generics", "6.Generics\6.Generics.csproj", "{C952B84D-604C-4155-818A-D0AE91D69E1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.Generics", "6.Generics\6.Generics.csproj", "{C952B84D-604C-4155-818A-D0AE91D69E1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Delegates", "7.Delegates\7.Delegates.csproj", "{4BCDFAFD-7DF3-4A1E-8F47-2D4AD4361F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Delegates", "7.Delegates\7.Delegates.csproj", "{4BCDFAFD-7DF3-4A1E-8F47-2D4AD4361F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Delegates(before using)", "7.Delegates(before using)\7.Delegates(before using).csproj", "{F113B93C-70F6-42CE-B422-A0A1530D57B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Delegates(before using)", "7.Delegates(before using)\7.Delegates(before using).csproj", "{F113B93C-70F6-42CE-B422-A0A1530D57B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Lambda", "8.Lambda\8.Lambda.csproj", "{C6BEF9B0-5DBA-4B43-81CA-B95A84E70A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.Lambda", "8.Lambda\8.Lambda.csproj", "{C6BEF9B0-5DBA-4B43-81CA-B95A84E70A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Events", "9.Events\9.Events.csproj", "{71217778-0BE2-4332-BDA3-34D5D6E1E091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.Events", "9.Events\9.Events.csproj", "{71217778-0BE2-4332-BDA3-34D5D6E1E091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Events_WithEventArgs", "9.Events_WithEventArgs\9.Events_WithEventArgs.csproj", "{EEB5B61A-A762-4F61-98F1-0F2CE9101B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.Events_WithEventArgs", "9.Events_WithEventArgs\9.Events_WithEventArgs.csproj", "{EEB5B61A-A762-4F61-98F1-0F2CE9101B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Events_SimplerDelegates", "9.Events_SimplerDelegates\9.Events_SimplerDelegates.csproj", "{D5E22C08-7A27-45B6-8022-C12CAA3542E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.Events_SimplerDelegates", "9.Events_SimplerDelegates\9.Events_SimplerDelegates.csproj", "{D5E22C08-7A27-45B6-8022-C12CAA3542E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ExtensionMethods", "10.ExtensionMethods\10.ExtensionMethods.csproj", "{62AE038B-DC24-4A39-9BAC-DD93745E4CC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ExtensionMethods", "10.ExtensionMethods\10.ExtensionMethods.csproj", "{62AE038B-DC24-4A39-9BAC-DD93745E4CC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Linq", "11.Linq\11.Linq.csproj", "{DCC28771-F490-4772-9E42-DF4753F55A43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Linq", "11.Linq\11.Linq.csproj", "{DCC28771-F490-4772-9E42-DF4753F55A43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Nullable", "12.Nullable\12.Nullable.csproj", "{EFAD306F-E78A-4CA3-8219-4C7C40989E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Nullable", "12.Nullable\12.Nullable.csproj", "{EFAD306F-E78A-4CA3-8219-4C7C40989E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Dynamic", "13.Dynamic\13.Dynamic.csproj", "{11BB8161-2140-4BA4-B49D-614AD0D0A9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Dynamic", "13.Dynamic\13.Dynamic.csproj", "{11BB8161-2140-4BA4-B49D-614AD0D0A9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ExceptionHandling", "14.ExceptionHandling\14.ExceptionHandling.csproj", "{BB0E3362-783F-410D-8B93-F8EC918C1CE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ExceptionHandling", "14.ExceptionHandling\14.ExceptionHandling.csproj", "{BB0E3362-783F-410D-8B93-F8EC918C1CE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

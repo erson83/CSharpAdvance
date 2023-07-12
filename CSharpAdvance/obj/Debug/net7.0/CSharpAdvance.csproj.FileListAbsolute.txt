@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/CSharpAdvance.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/CSharpAdvance/obj/Debug/net7.0/ref/CSharpAdvance.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\bin\Debug\net7.0\CSharpAdvance.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\refint\CSharpAdvance.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\CSharpAdvance\obj\Debug\net7.0\CSharpAdvance.pdb

@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/6.Generics.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/6.Generics/obj/Debug/net7.0/ref/6.Generics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\bin\Debug\net7.0\6.Generics.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\refint\6.Generics.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\6.Generics\obj\Debug\net7.0\6.Generics.pdb

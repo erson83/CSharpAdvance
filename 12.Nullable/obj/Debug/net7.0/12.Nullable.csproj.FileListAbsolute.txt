@@ -13,3 +13,13 @@
 /Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.pdb
 /Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/12.Nullable.genruntimeconfig.cache
 /Users/jeffersonong/Projects/CSharpAdvance/12.Nullable/obj/Debug/net7.0/ref/12.Nullable.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\bin\Debug\net7.0\12.Nullable.exe
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.csproj.AssemblyReference.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.AssemblyInfoInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.AssemblyInfo.cs
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.sourcelink.json
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\refint\12.Nullable.dll
+C:\Users\jeong\Source\Repos\erson83\CSharpAdvance\12.Nullable\obj\Debug\net7.0\12.Nullable.pdb

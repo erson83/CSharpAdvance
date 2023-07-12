@@ -1,31 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeffersonong/Projects/CSharpAdvance/9.Events_WithEventArgs/9.Events_WithEventArgs.csproj": {}
+    "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpAdvance\\9.Events_WithEventArgs\\9.Events_WithEventArgs.csproj": {}
   },
   "projects": {
-    "/Users/jeffersonong/Projects/CSharpAdvance/9.Events_WithEventArgs/9.Events_WithEventArgs.csproj": {
+    "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpAdvance\\9.Events_WithEventArgs\\9.Events_WithEventArgs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeffersonong/Projects/CSharpAdvance/9.Events_WithEventArgs/9.Events_WithEventArgs.csproj",
+        "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpAdvance\\9.Events_WithEventArgs\\9.Events_WithEventArgs.csproj",
         "projectName": "9.Events_WithEventArgs",
-        "projectPath": "/Users/jeffersonong/Projects/CSharpAdvance/9.Events_WithEventArgs/9.Events_WithEventArgs.csproj",
-        "packagesPath": "/Users/jeffersonong/.nuget/packages/",
-        "outputPath": "/Users/jeffersonong/Projects/CSharpAdvance/9.Events_WithEventArgs/obj/",
+        "projectPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpAdvance\\9.Events_WithEventArgs\\9.Events_WithEventArgs.csproj",
+        "packagesPath": "C:\\Users\\jeong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpAdvance\\9.Events_WithEventArgs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/jeffersonong/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jeong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jeong\\Documents\\UiPath\\.libraries": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -33,11 +39,14 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
